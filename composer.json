@@ -1,0 +1,12 @@
+{
+    "name": "chenchao/loginsystem",
+    "authors": [
+        {
+            "name": "Jonathan Chen",
+            "email": "chaochen42@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^5.2"
+    }
+}
