@@ -4,7 +4,7 @@
  */
 
    require("../vendor/autoload.php");
-   include('settings.php');
+   include('config.php');
 
    // Set session variables to be used on profile.php page
    $_SESSION['email'] = $_POST['email'];
